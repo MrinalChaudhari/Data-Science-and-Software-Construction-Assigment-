@@ -1,0 +1,3 @@
+Array{piece=WHITE}
+Array{piece=null}
+Array{piece=BLACK}
